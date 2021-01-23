@@ -42,7 +42,7 @@
 - Images data provided on kaggle.
 - A classifier to detect the dog's breed using pytorch.
 
-[**Dog cat Classifier using resent 18**](https://github.com/taijackt/Data-science-projects-profile/blob/gh-pages/projects/cat-dog-classilfer-resnet-18-pytorch.ipynb)
+[**Dog cat Classifier using resnet-18**](https://github.com/taijackt/Data-science-projects-profile/blob/gh-pages/projects/cat-dog-classilfer-resnet-18-pytorch.ipynb)
 - Using resnet-18 as base model
 - With highest 97% accuracy.
 
