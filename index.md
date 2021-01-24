@@ -39,8 +39,8 @@
 
 ## Image classification
 [**Dog-breed-Classifier using resnet-50**](https://github.com/taijackt/Data-science-projects-profile/blob/gh-pages/projects/dog-breed-classifier-with-pytorch-using-resnet50.ipynb)
-- Images data provided on kaggle.
-- A classifier to detect the dog's breed using pytorch.
+- Built a classifier to classifier dog's breed from 120 types of breeds with highest near 85% accuracy validation data.
+- Using transfer learning (with resnet-50 as base model).
 
 [**Dog cat Classifier using resnet-18**](https://github.com/taijackt/Data-science-projects-profile/blob/gh-pages/projects/cat-dog-classilfer-resnet-18-pytorch.ipynb)
 - Using resnet-18 as base model
