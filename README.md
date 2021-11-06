@@ -1,4 +1,5 @@
 # Data-science-projects-profile
-#### All the projects are posted on kaggle originally, to see more detail, visit my kaggle profile(https://www.kaggle.com/jackttai)
+
+- This repo is shown on github page, please visit: https://taijackt.github.io/Data-science-projects-profile/
 
 
