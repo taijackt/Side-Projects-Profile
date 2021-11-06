@@ -1,4 +1,4 @@
-# Side Porjects Profile
+# Side Projects Profile
 
 ### [Fine-tuning BERT for sequence classification](https://github.com/taijackt/BERT_fake_news_classification)
 > This project is originally done on kaggle notebook and then modified. 
