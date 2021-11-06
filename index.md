@@ -1,29 +1,29 @@
-# Side Projects Profile
+# **Side Projects Profile**
 
-### [Fine-tuning BERT for sequence classification](https://github.com/taijackt/BERT_fake_news_classification)
+### [**Fine-tuning BERT for sequence classification**](https://github.com/taijackt/BERT_fake_news_classification)
 > This project is originally done on kaggle notebook and then modified. 
 - Fine tuning a BERT to classify fake news (Chinese language).
 - Two sentences A & B would be given to the model, the model will classify whether they are `agreed`, `disagreed` or `unrelated`.
 
-### [Mask Detection with Faster RCNN (Pytorch) (transfer learning)](https://github.com/taijackt/Mask-detection-RCNN)
+### [**Mask Detection with Faster RCNN (Pytorch) (transfer learning)**](https://github.com/taijackt/Mask-detection-RCNN)
 > This project is originall done on kaggle notebook and then modified. [link](https://www.kaggle.com/jackttai/face-mask-detection-faster-r-cnn-pytorch)
 - Faster RCNN is used for transfer learning.
 - To detect whether a person is wearing mask or not wearing mask.
 
-### [People counting system with YOLOv5](https://github.com/taijackt/People-Counting-with-yolov5) (Not yet finish uploading)
+### [**People counting system with YOLOv5**](https://github.com/taijackt/People-Counting-with-yolov5) (Not yet finish uploading)
 > Counting people in/out using YOLOv5 and centroid tracker.
 - A simple people counting system with around 30 fps in average.
 - The counting data is saved in local using mongoDB.
 - API is provided for getting the data.
 
 
-### Simple People Re-identification system (Not yet finish uploading)
+### **Simple People Re-identification system** (Not yet finish uploading)
 > A simple people re-identification system using torchreid, YOLOv5 and motrackers.
 - The camera in entracne will capture the images of people.
 - The camera in exit will capture the image and do re-identification with the images saved by the first camera.
 - Can be used in queue management to record their waiting time.
 
-# Other projects on kaggle
+# **Other projects on kaggle**
 
 [**Churning cusomter prediction**](https://github.com/taijackt/Data-science-projects-profile/blob/gh-pages/projects/churning-customers-eda-lgbm-smote-0-94-recall.ipynb)
 - Imbalanced data, only 16.07% customers who have churned.
