@@ -3,7 +3,7 @@
 ### [Fine-tuning BERT for sequence classification](https://github.com/taijackt/BERT_fake_news_classification)
 > This project is originally done on kaggle notebook and then modified. 
 - Fine tuning a BERT to classify fake news (Chinese language).
-- Two sentences A & B　would be given to the model, the model will classify whether they are `agreed`, `disagreed` or `unrelated`.
+- Two sentences A & B would be given to the model, the model will classify whether they are `agreed`, `disagreed` or `unrelated`.
 
 ### [Mask Detection with Faster RCNN (Pytorch) (transfer learning)](https://github.com/taijackt/Mask-detection-RCNN)
 > This project is originall done on kaggle notebook and then modified. [link](https://www.kaggle.com/jackttai/face-mask-detection-faster-r-cnn-pytorch)
@@ -23,7 +23,7 @@
 - The camera in exit will capture the image and do re-identification with the images saved by the first camera.
 - Can be used in queue management to record their waiting time.
 
-> All the projects are belowed are done on kaggle and not yet modified into a github repo.
+# Other projects on kaggle
 
 [**Churning cusomter prediction**](https://github.com/taijackt/Data-science-projects-profile/blob/gh-pages/projects/churning-customers-eda-lgbm-smote-0-94-recall.ipynb)
 - Imbalanced data, only 16.07% customers who have churned.
@@ -67,7 +67,7 @@
 - Using resnet-18 as base model
 - With highest 97% accuracy.
 
-### Other projects
+### Other
 [**Titanic survival classification**](https://github.com/taijackt/Data-science-projects-profile/blob/gh-pages/projects/titanic-classification-using-xgboost.ipynb)
 - Predicting Titanic survival using XGBoost.
 - Rated top 10% on kaggle competition.
