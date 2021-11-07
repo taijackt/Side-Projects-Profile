@@ -3,7 +3,7 @@
 ### [**Fine-tuning BERT for sequence classification**](https://github.com/taijackt/BERT_fake_news_classification)
 > This project is originally done on kaggle notebook and then modified. 
 - Fine tuning a BERT to classify fake news (Chinese language).
-- Two sentences A & B would be given to the model, the model will classify whether they are `agreed`, `disagreed` or `unrelated`.
+- Two sentences A & B would be given to the model, the model will classify whether sentence B is `agreed`, `disagreed` or `unrelated` to sentence A.
 
 ### [**Mask Detection with Faster RCNN (Pytorch) (transfer learning)**](https://github.com/taijackt/Mask-detection-RCNN)
 > This project is originall done on kaggle notebook and then modified. [link](https://www.kaggle.com/jackttai/face-mask-detection-faster-r-cnn-pytorch)
